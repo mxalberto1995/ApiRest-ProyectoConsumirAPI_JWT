@@ -97,8 +97,21 @@ namespace COSUMIR_API_TEST.Servicios
             {
 
                 var json_respuesta = await response.Content.ReadAsStringAsync();
-                var resultado = JsonConvert.DeserializeObject<ResultadoApi>(json_respuesta);
-                objeto = resultado.objeto;
+               
+                var resultado = JObject.Parse(json_respuesta);
+
+                if (resultado == null)
+                {
+                    throw new Exception("Fallo al deserializar!!");
+                }
+
+                objeto.IdProducto = (int)resultado["response"]["idProducto"];
+                objeto.CodigoBarra = (string)resultado["response"]["codigoBarra"];
+                objeto.Nombre = (string)resultado["response"]["nombre"];
+                objeto.Marca = (string)resultado["response"]["marca"];
+                objeto.Categoria = (string)resultado["response"]["categoria"];
+                objeto.Precio = (decimal)resultado["response"]["precio"];
+
             }
 
             return objeto;

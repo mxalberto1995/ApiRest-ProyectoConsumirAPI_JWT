@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KHnRgNnC/MtpYSdbcqrHrjU+nlGevIVRAvjdxTlsp5BUuOZxU2DxBV4hLqsVqJPZ8jSpJ77rOXQ2dDkXqAgrg==",
+  "dgSpecHash": "yjo9H/NoXyuwrMGWiiGzqWvUFXhqRpj7ecq5fclg3KNRM2oJK0tF4fe2OPeih4j+FdFVSlBzyrhbQ0S4bpt8eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mchacon\\Desktop\\Inv2\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+  "projectFilePath": "C:\\Users\\mchacon\\Desktop\\Inv3\\PROYECTO_API_JWT\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mchacon\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.3\\microsoft.aspnetcore.authentication.jwtbearer.6.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

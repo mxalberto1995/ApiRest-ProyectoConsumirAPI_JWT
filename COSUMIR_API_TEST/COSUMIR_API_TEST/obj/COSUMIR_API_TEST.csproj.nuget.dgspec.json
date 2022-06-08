@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mchacon\\Desktop\\Inv2\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj": {}
+    "C:\\Users\\mchacon\\Desktop\\Inv3\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mchacon\\Desktop\\Inv2\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj": {
+    "C:\\Users\\mchacon\\Desktop\\Inv3\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mchacon\\Desktop\\Inv2\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj",
+        "projectUniqueName": "C:\\Users\\mchacon\\Desktop\\Inv3\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj",
         "projectName": "COSUMIR_API_TEST",
-        "projectPath": "C:\\Users\\mchacon\\Desktop\\Inv2\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj",
+        "projectPath": "C:\\Users\\mchacon\\Desktop\\Inv3\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\COSUMIR_API_TEST.csproj",
         "packagesPath": "C:\\Users\\mchacon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mchacon\\Desktop\\Inv2\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\obj\\",
+        "outputPath": "C:\\Users\\mchacon\\Desktop\\Inv3\\COSUMIR_API_TEST\\COSUMIR_API_TEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages",
